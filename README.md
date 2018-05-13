@@ -1,2 +1,1 @@
-# Bad
-SUPER BAd
+bAD
